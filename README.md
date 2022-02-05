@@ -1,5 +1,5 @@
 # Hola-Mundo
-Mi primer repositorio de prueba.
+Mi primer rama distinta al master.
 
 Autor: Jorge Valderrabano
 Fecha: 05/02/2022
